@@ -12,6 +12,10 @@ Gauge Charts:
 
 
 
+![gauge](https://user-images.githubusercontent.com/22225983/33773662-aa01fc72-dc06-11e7-8cce-15404b33fec6.PNG)
+
+
+
 
 
 
